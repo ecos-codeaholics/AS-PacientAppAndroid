@@ -1,0 +1,26 @@
+<resources>
+    <!-- Strings related to Main -->
+    <string name="app_name">Migrañeitor</string>
+    <string name="doYourReport">Por favor haga su Reporte</string>
+    <string name="activity">Actividad</string>
+    <string name="exercise">Ejercicio</string>
+    <string name="rest">Descanso</string>
+    <string name="work">Trabajo</string>
+    <string name="date">Fecha</string>
+    <string name="time">Hora</string>
+    <string name="medicament">Medicamento</string>
+    <string name="intensity">Intensidad del Dolor</string>
+    <string name="submit">Enviar</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar</string>
+    <string name="action_sign_in_short">Iniciar</string>
+    <string name="error_invalid_email">Esta dierección de correo es invalida</string>
+    <string name="error_invalid_password">La contraseña es demasiado corta</string>
+    <string name="error_incorrect_password">La contraseña es incorrecta</string>
+    <string name="error_field_required">campo requerido</string>
+    <string name="permission_rationale">"Para realizar esta acción necesita permmisos" </string>
+</resources>
